@@ -1,4 +1,3 @@
-Here’s a clean, SEO-friendly README for your **SMPP Service in Tanzania** page:
 
 ```markdown id="41683"
 # SMPP Service in Tanzania
